@@ -9,6 +9,8 @@ Repositório criado para servir como fonte de consulta e documentação dos conh
 
 ### 📋 Indice
 
+- [Estrutura de Dados](https://github.com/mslisboa/UESC/tree/main/Estrutura%20de%20Dados)
+    - [Lista linear de alocacao sequencial](https://github.com/mslisboa/UESC/tree/main/Estrutura%20de%20Dados/Lista%20linear%20de%20alocacao%20sequencial)
 - [Linguagem de Programação I](https://github.com/mslisboa/UESC/tree/main/Linguagem%20de%20Programa%C3%A7%C3%A3o%20I)
     - [Lista_2_Variaveis, operadores, e estruturas de controle](https://github.com/mslisboa/UESC/tree/main/Linguagem%20de%20Programa%C3%A7%C3%A3o%20I/Lista_2_Variaveis%2C%20operadores%20e%20estruturas%20de%20controle)
     - [Lista_3_Estruturas de controle](https://github.com/mslisboa/UESC/tree/main/Linguagem%20de%20Programa%C3%A7%C3%A3o%20I/Lista_3_Estruturas%20de%20controle)
@@ -22,6 +24,6 @@ Repositório criado para servir como fonte de consulta e documentação dos conh
 - [C]()
 - [Python](https://www.python.org/)
 
-### Informações Adicionais
+### 📌 Informações Adicionais
 
 O repositório será alimentado a medida em que o curso for avançando, visto que o mesmo ainda se encontra em andamento.

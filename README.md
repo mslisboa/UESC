@@ -18,6 +18,7 @@ Repositório criado para servir como fonte de consulta e documentação dos conh
     - [Lista_6_recursividade](https://github.com/mslisboa/UESC/tree/main/Linguagem%20de%20Programa%C3%A7%C3%A3o%20II/Lista_6_recursividade)
 - [Organização e Recuperação da Informação](https://github.com/mslisboa/UESC/tree/main/Organiza%C3%A7%C3%A3o%20e%20Recupera%C3%A7%C3%A3o%20da%20Informa%C3%A7%C3%A3o)
     - [Criptografia](https://github.com/mslisboa/UESC/tree/main/Organiza%C3%A7%C3%A3o%20e%20Recupera%C3%A7%C3%A3o%20da%20Informa%C3%A7%C3%A3o/Criptografia)
+    - [Gerenciador de indices](https://github.com/mslisboa/UESC/tree/main/Organiza%C3%A7%C3%A3o%20e%20Recupera%C3%A7%C3%A3o%20da%20Informa%C3%A7%C3%A3o/Gerenciador%20de%20indices)
 
 ### 💾 Tecnologias
 
